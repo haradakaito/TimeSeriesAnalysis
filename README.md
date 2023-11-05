@@ -17,8 +17,8 @@
 - Anaconda公式サイト(URL：https://www.anaconda.com/products/distribution)から適用OS版の「Anaconda Distribution」をダウンロードする  
 - ウィザードに従って, Anacondaをインストール  
 - スタート画面から「Anaconda Prompt(Anaconda3)」を起動    
-- 仮想環境の構築  
-a. 使用する仮想環境を作成する  
+- 仮想環境の構築
+- a. 使用する仮想環境を作成する  
 ```
 $ conda create -n "任意の環境名" python=3.9
 ```  
