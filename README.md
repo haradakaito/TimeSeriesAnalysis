@@ -8,7 +8,7 @@
 - dataフォルダ > 加工前のデータ(trainval_data.xlsx)
 - imageフォルダ > ipynb埋め込み用画像(image1,2,3,4.jpg)
 ## 環境構築
-
+　環境構築用ファイル(setup.txt)に記載されている内容を以下に示す.  
 ## データ前処理
 
 ## モデル構築
