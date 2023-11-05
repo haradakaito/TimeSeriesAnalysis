@@ -20,8 +20,8 @@
 - 仮想環境の構築  
 a. 使用する仮想環境を作成する  
 ```$ conda create -n "任意の環境名" python=3.9```  
-b. 作成した仮想環境をアクティベートする
-```$ conda activate "任意の環境名"```   
+b. 作成した仮想環境をアクティベートする  
+```$ conda activate "任意の環境名"```  
 c. 基本的なライブラリをインストール  
 ```$ conda install ipykernel ipywidgets pandas openpyxl numpy matplotlib seaborn scikit-learn tqdm```  
 - tensorflowをインストールする  
