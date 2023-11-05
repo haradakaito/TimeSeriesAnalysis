@@ -34,6 +34,8 @@ $ conda install ipykernel ipywidgets pandas openpyxl numpy matplotlib seaborn sc
 $ pip install tensorflow==2.12
 $ pip install --force-reinstall charset-normalizer==3.1.0 --user
 ```    
-- VSCodeで「predict」フォルダを開き, studyフォルダ内の, data.ipynbとmodel.ipynbを順に実行し, エラーが出ずに実行が完了すれば, 環境構築は完了   
+- VSCodeで「predict」フォルダを開き, studyフォルダ内の, data.ipynbとmodel.ipynbを順に実行し, エラーが出ずに実行が完了すれば, 環境構築は完了
 ## 2. データ前処理
-## 3. モデル構築
+data.ipynbに記載
+## 3. 学習モデル作成
+model.ipynbに記載
