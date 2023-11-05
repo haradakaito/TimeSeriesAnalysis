@@ -19,14 +19,22 @@
 - スタート画面から「Anaconda Prompt(Anaconda3)」を起動    
 - 仮想環境の構築  
 a. 使用する仮想環境を作成する  
-```$ conda create -n "任意の環境名" python=3.9```  
+```
+$ conda create -n "任意の環境名" python=3.9
+```  
 b. 作成した仮想環境をアクティベートする  
-```$ conda activate "任意の環境名"```  
+```
+$ conda activate "任意の環境名"
+```  
 c. 基本的なライブラリをインストール  
-```$ conda install ipykernel ipywidgets pandas openpyxl numpy matplotlib seaborn scikit-learn tqdm```  
+```
+$ conda install ipykernel ipywidgets pandas openpyxl numpy matplotlib seaborn scikit-learn tqdm
+```  
 - tensorflowをインストールする  
-```$ pip install tensorflow==2.12```  
-```$ pip install --force-reinstall charset-normalizer==3.1.0 --user```  
+```
+$ pip install tensorflow==2.12
+$ pip install --force-reinstall charset-normalizer==3.1.0 --user
+```    
 - VSCodeで「predict」フォルダを開き, studyフォルダ内の, data.ipynbとmodel.ipynbを順に実行し, エラーが出ずに実行が完了すれば, 環境構築は完了   
 ## 2. データ前処理
 ## 3. モデル構築
