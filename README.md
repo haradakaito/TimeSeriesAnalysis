@@ -29,7 +29,7 @@ c. 基本的なライブラリをインストール
 ※ conda install で下記のopenssl関係等のエラーが出た場合  
 エラー内容:CondaSSLError: OpenSSL appears to be unavailable on this machine. OpenSSL is required to download and install packages.  
 → https://slproweb.com/products/Win32OpenSSL.htmlのページの「Win64 OpenSSL v1.1.1v」をダウンロードして再度実行し直すと解決することがある  
-　 ・ダウンロードEXEファイルURL:https://slproweb.com/download/Win64OpenSSL-1_1_1v.exe  
+・ダウンロードEXEファイルURL:https://slproweb.com/download/Win64OpenSSL-1_1_1v.exe  
 - tensorflowをインストールする  
 「$ pip install tensorflow==2.12」  
 「$ pip install --force-reinstall charset-normalizer==3.1.0 --user」  
