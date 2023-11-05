@@ -14,7 +14,7 @@
 - プロセッサ：AMD Ryzen 7 5825U  
 - メモリ：16GB  
 ### 1.2 環境構築
-- Anaconda公式サイト(URL：https://www.anaconda.com/products/distribution)から適用OS版の「Anaconda Distribution」をダウンロードする  
+- Anaconda公式サイト(URL：https://www.anaconda.com/products/distribution) から適用OS版の「Anaconda Distribution」をダウンロードする  
 - ウィザードに従って, Anacondaをインストール  
 - スタート画面から「Anaconda Prompt(Anaconda3)」を起動    
 - 使用する仮想環境を作成する  
