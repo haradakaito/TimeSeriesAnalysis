@@ -10,6 +10,9 @@
 ## 1. 環境構築について
 　環境構築用ファイル(setup.txt)に記載されている内容を以下に示す.  
 ### 1.1 実行環境
+- Windows11上のAnaconda  
+- プロセッサ：AMD Ryzen 7 5825U  
+- メモリ：16GB  
 ### 1.2 環境構築
 1. Anaconda公式サイト(URL：https://www.anaconda.com/products/distribution)から適用OS版の「Anaconda Distribution」をダウンロードする  
 2. ウィザードに従って, Anacondaをインストール  
